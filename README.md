@@ -8,6 +8,14 @@ After this, best feature selection is done using using SelectKBest and chi2 afte
 
 Accuracy score: 0.96 , Precision score: 0.925, Recall score: 0.9736842105263158 and F1 Score : 0.9487179487179489
 
-Libraries Used:
+### Libraries Used:
+
+Pandas, Numpy, Matplotlib, Seaborn, Plotly
+
+### Programing Language 
+Python 
+
+### IDE Used
+Jupyter Notebook
 
 
